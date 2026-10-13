@@ -1,0 +1,10 @@
+{
+  "description": "This app allows users to rate and review rental properties, manage their feedback, and view aggregated ratings, enhancing the rental experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
